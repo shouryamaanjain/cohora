@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1",
+    "name": "Priya Sharma",
+    "batch": "2025",
+    "skills": ["React", "TypeScript", "Node.js", "UI/UX Design"],
+    "projects": [
+      { "name": "CampusConnect", "description": "Social platform for university clubs with 500+ users" },
+      { "name": "StudyBuddy", "description": "AI-powered study group matching app" }
+    ],
+    "clubs": ["Tech Club", "Design Society"],
+    "bio": "Full-stack developer passionate about building products.",
+    "connections": ["2", "5", "11", "15", "22", "30"]
+  },
+  {
+    "id": "2",
+    "name": "Arjun Mehta",
+    "batch": "2024",
+    "skills": ["Python", "Machine Learning", "TensorFlow", "Data Science"],
+    "projects": [
+      { "name": "PlagiarismDetector", "description": "ML model detecting plagiarism with 94% accuracy" },
+      { "name": "CourseRecommender", "description": "Personalized course recommendation system" }
+    ],
+    "clubs": ["AI/ML Club", "Research Society"],
+    "bio": "ML researcher focused on NLP and educational tech.",
+    "connections": ["1", "7", "13", "19", "25", "31"]
+  },
+  {
+    "id": "3",
+    "name": "Zara Khan",
+    "batch": "2025",
+    "skills": ["Figma", "Graphic Design", "Branding", "Illustration"],
+    "projects": [
+      { "name": "TechFest 2024 Branding", "description": "Visual identity for flagship tech festival" },
+      { "name": "StartupWeekend Posters", "description": "Marketing collateral for 10k+ students" }
+    ],
+    "clubs": ["Design Society", "E-Cell"],
+    "bio": "Visual designer specializing in event branding.",
+    "connections": ["8", "14", "20", "26", "32"]
+  },
+  {
+    "id": "4",
+    "name": "Rohan Gupta",
+    "batch": "2024",
+    "skills": ["Java", "Spring Boot", "Microservices", "AWS"],
+    "projects": [
+      { "name": "LibraryMS", "description": "Scalable library system handling 50k+ transactions" },
+      { "name": "ExamScheduler", "description": "Automated exam scheduling with conflict resolution" }
+    ],
+    "clubs": ["Coding Club", "Open Source Club"],
+    "bio": "Backend engineer with enterprise systems experience.",
+    "connections": ["10", "16", "22", "28", "34"]
+  },
+  {
+    "id": "5",
+    "name": "Ananya Reddy",
+    "batch": "2026",
+    "skills": ["React Native", "Flutter", "Mobile Development", "Firebase"],
+    "projects": [
+      { "name": "MealTracker", "description": "Hostel mess menu app with 2000+ downloads" },
+      { "name": "BusAlert", "description": "Real-time campus shuttle tracking app" }
+    ],
+    "clubs": ["App Dev Club", "Google DSC"],
+    "bio": "Mobile developer improving daily campus life.",
+    "connections": ["1", "11", "17", "23", "29", "35"]
+  },
+  {
+    "id": "6",
+    "name": "Kabir Singh",
+    "batch": "2025",
+    "skills": ["Blockchain", "Solidity", "Web3", "Smart Contracts"],
+    "projects": [
+      { "name": "CertiChain", "description": "Blockchain certificate verification for universities" },
+      { "name": "DAOVoting", "description": "Decentralized voting for student elections" }
+    ],
+    "clubs": ["Blockchain Club", "E-Cell"],
+    "bio": "Web3 enthusiast exploring decentralized education.",
+    "connections": ["12", "18", "24", "30", "36"]
+  },
+  {
+    "id": "7",
+    "name": "Meera Patel",
+    "batch": "2024",
+    "skills": ["Python", "Django", "PostgreSQL", "REST APIs"],
+    "projects": [
+      { "name": "ResearchHub", "description": "Platform connecting students with research opportunities" },
+      { "name": "AlumniConnect", "description": "Alumni networking with mentorship matching" }
+    ],
+    "clubs": ["Women in Tech", "Coding Club"],
+    "bio": "Backend developer building opportunity platforms.",
+    "connections": ["2", "13", "19", "25", "31", "37"]
+  },
+  {
+    "id": "8",
+    "name": "Aditya Nair",
+    "batch": "2025",
+    "skills": ["Cybersecurity", "Ethical Hacking", "Network Security", "CTF"],
+    "projects": [
+      { "name": "VulnScanner", "description": "Automated vulnerability scanner for web apps" },
+      { "name": "PhishGuard", "description": "Browser extension detecting phishing" }
+    ],
+    "clubs": ["InfoSec Club", "CTF Team"],
+    "bio": "Security researcher with multiple bug bounties.",
+    "connections": ["3", "14", "20", "26", "32", "38"]
+  },
+  {
+    "id": "9",
+    "name": "Ishita Verma",
+    "batch": "2026",
+    "skills": ["Content Writing", "Technical Writing", "SEO", "Copywriting"],
+    "projects": [
+      { "name": "TechBlog", "description": "Student tech blog with 15k monthly readers" },
+      { "name": "StartupDocs", "description": "Technical docs for 5+ campus startups" }
+    ],
+    "clubs": ["Literary Society", "E-Cell"],
+    "bio": "Technical writer bridging tech and communication.",
+    "connections": ["15", "21", "27", "33", "39"]
+  },
+  {
+    "id": "10",
+    "name": "Vikram Joshi",
+    "batch": "2024",
+    "skills": ["DevOps", "Docker", "Kubernetes", "CI/CD", "Linux"],
+    "projects": [
+      { "name": "AutoDeploy", "description": "CI/CD pipeline for student projects" },
+      { "name": "ServerMonitor", "description": "Infrastructure monitoring dashboard" }
+    ],
+    "clubs": ["Cloud Computing Club", "Open Source Club"],
+    "bio": "DevOps engineer automating everything.",
+    "connections": ["4", "16", "22", "28", "34", "40"]
+  },
+  {
+    "id": "11",
+    "name": "Sanya Malhotra",
+    "batch": "2025",
+    "skills": ["Product Management", "User Research", "Agile", "Analytics"],
+    "projects": [
+      { "name": "FeedbackLoop", "description": "Product feedback tool for 8 campus startups" },
+      { "name": "MetricsBoard", "description": "Analytics dashboard for student orgs" }
+    ],
+    "clubs": ["Product Club", "E-Cell"],
+    "bio": "Aspiring PM turning pain points into features.",
+    "connections": ["1", "5", "17", "23", "29", "35"]
+  },
+  {
+    "id": "12",
+    "name": "Rahul Kapoor",
+    "batch": "2026",
+    "skills": ["Game Development", "Unity", "C#", "3D Modeling"],
+    "projects": [
+      { "name": "CampusQuest", "description": "AR campus exploration game for freshers" },
+      { "name": "EscapeRoom", "description": "Puzzle game featured in college fest" }
+    ],
+    "clubs": ["Game Dev Club", "Animation Club"],
+    "bio": "Game developer creating immersive experiences.",
+    "connections": ["6", "18", "24", "30", "36"]
+  },
+  {
+    "id": "13",
+    "name": "Neha Saxena",
+    "batch": "2025",
+    "skills": ["Data Analytics", "SQL", "Tableau", "Excel", "Python"],
+    "projects": [
+      { "name": "PlacementAnalytics", "description": "Data insights on campus placement trends" },
+      { "name": "SurveyInsights", "description": "Automated survey analysis for student gov" }
+    ],
+    "clubs": ["Analytics Club", "Consulting Club"],
+    "bio": "Data analyst turning messy data into insights.",
+    "connections": ["2", "7", "19", "25", "31", "37"]
+  },
+  {
+    "id": "14",
+    "name": "Karan Thakur",
+    "batch": "2024",
+    "skills": ["Rust", "Systems Programming", "Compilers", "OS Development"],
+    "projects": [
+      { "name": "MiniOS", "description": "Educational OS kernel for CS courses" },
+      { "name": "TinyCompiler", "description": "Compiler for custom programming language" }
+    ],
+    "clubs": ["Systems Club", "Open Source Club"],
+    "bio": "Low-level programming enthusiast.",
+    "connections": ["3", "8", "20", "26", "32", "38"]
+  },
+  {
+    "id": "15",
+    "name": "Tara Iyer",
+    "batch": "2025",
+    "skills": ["Public Speaking", "Event Management", "Leadership", "Marketing"],
+    "projects": [
+      { "name": "TEDxCampus", "description": "Organized TEDx with 500+ attendees" },
+      { "name": "Hackathon2024", "description": "Led annual 48-hour hackathon" }
+    ],
+    "clubs": ["Toastmasters", "Event Management Club", "Student Council"],
+    "bio": "Event organizer bringing people together.",
+    "connections": ["1", "9", "21", "27", "33", "39"]
+  },
+  {
+    "id": "16",
+    "name": "Ayush Bansal",
+    "batch": "2024",
+    "skills": ["C++", "Competitive Programming", "Algorithms", "Data Structures"],
+    "projects": [
+      { "name": "AlgoVisualizer", "description": "Interactive algorithm visualization tool" },
+      { "name": "CPHelper", "description": "VS Code extension for competitive coders" }
+    ],
+    "clubs": ["CP Club", "Coding Club"],
+    "bio": "3-star Codeforces, ICPC regionalist.",
+    "connections": ["4", "10", "22", "28", "34", "40"]
+  },
+  {
+    "id": "17",
+    "name": "Divya Krishnan",
+    "batch": "2025",
+    "skills": ["UI/UX Design", "Figma", "User Research", "Prototyping"],
+    "projects": [
+      { "name": "HealthApp Redesign", "description": "Redesigned campus health portal UX" },
+      { "name": "EduFlow", "description": "Learning platform design system" }
+    ],
+    "clubs": ["Design Society", "Product Club"],
+    "bio": "UX designer focused on accessible interfaces.",
+    "connections": ["5", "11", "23", "29", "35"]
+  },
+  {
+    "id": "18",
+    "name": "Sahil Oberoi",
+    "batch": "2026",
+    "skills": ["IoT", "Arduino", "Raspberry Pi", "Embedded Systems"],
+    "projects": [
+      { "name": "SmartBin", "description": "IoT waste management for campus" },
+      { "name": "AttendanceBot", "description": "RFID-based automated attendance" }
+    ],
+    "clubs": ["Robotics Club", "Electronics Club"],
+    "bio": "Hardware hacker building IoT solutions.",
+    "connections": ["6", "12", "24", "30", "36"]
+  },
+  {
+    "id": "19",
+    "name": "Riya Agarwal",
+    "batch": "2024",
+    "skills": ["NLP", "Python", "BERT", "Transformers", "LLMs"],
+    "projects": [
+      { "name": "SentimentAPI", "description": "Sentiment analysis API for social media" },
+      { "name": "SummarizeIt", "description": "Document summarization using LLMs" }
+    ],
+    "clubs": ["AI/ML Club", "Research Society"],
+    "bio": "NLP researcher working on language models.",
+    "connections": ["2", "7", "13", "25", "31", "37"]
+  },
+  {
+    "id": "20",
+    "name": "Nikhil Sharma",
+    "batch": "2025",
+    "skills": ["Video Editing", "After Effects", "Premiere Pro", "Motion Graphics"],
+    "projects": [
+      { "name": "TechFest Promo", "description": "Viral promo video with 100k views" },
+      { "name": "ClubIntros", "description": "Intro videos for 15 campus clubs" }
+    ],
+    "clubs": ["Media Club", "Film Society"],
+    "bio": "Video editor creating engaging content.",
+    "connections": ["3", "8", "14", "26", "32", "38"]
+  },
+  {
+    "id": "21",
+    "name": "Kavya Menon",
+    "batch": "2026",
+    "skills": ["Photography", "Lightroom", "Portrait", "Event Photography"],
+    "projects": [
+      { "name": "CampusLife", "description": "Photo series featured in college magazine" },
+      { "name": "GradPhotos", "description": "Official graduation photography" }
+    ],
+    "clubs": ["Photography Club", "Media Club"],
+    "bio": "Photographer capturing campus moments.",
+    "connections": ["9", "15", "27", "33", "39"]
+  },
+  {
+    "id": "22",
+    "name": "Varun Malhotra",
+    "batch": "2024",
+    "skills": ["React", "Next.js", "GraphQL", "Tailwind CSS"],
+    "projects": [
+      { "name": "EventHub", "description": "Campus event discovery platform" },
+      { "name": "NotesShare", "description": "Note-sharing app with 3k users" }
+    ],
+    "clubs": ["Tech Club", "Open Source Club"],
+    "bio": "Frontend specialist building beautiful UIs.",
+    "connections": ["1", "4", "10", "16", "28", "34"]
+  },
+  {
+    "id": "23",
+    "name": "Aisha Kapoor",
+    "batch": "2025",
+    "skills": ["Flutter", "Dart", "Firebase", "App Development"],
+    "projects": [
+      { "name": "FitTrack", "description": "Fitness tracking app for students" },
+      { "name": "QuizMaster", "description": "Quiz app for exam preparation" }
+    ],
+    "clubs": ["App Dev Club", "Google DSC"],
+    "bio": "Flutter developer shipping cross-platform apps.",
+    "connections": ["5", "11", "17", "29", "35"]
+  },
+  {
+    "id": "24",
+    "name": "Pranav Desai",
+    "batch": "2026",
+    "skills": ["Cloud Computing", "AWS", "Azure", "Terraform"],
+    "projects": [
+      { "name": "CloudLab", "description": "Self-service cloud lab for students" },
+      { "name": "InfraBot", "description": "Slack bot for infrastructure alerts" }
+    ],
+    "clubs": ["Cloud Computing Club", "Tech Club"],
+    "bio": "Cloud enthusiast with AWS certifications.",
+    "connections": ["6", "12", "18", "30", "36"]
+  },
+  {
+    "id": "25",
+    "name": "Sneha Bhatia",
+    "batch": "2024",
+    "skills": ["Computer Vision", "OpenCV", "PyTorch", "Deep Learning"],
+    "projects": [
+      { "name": "FaceAttend", "description": "Facial recognition attendance system" },
+      { "name": "ObjectDetect", "description": "Real-time object detection on edge" }
+    ],
+    "clubs": ["AI/ML Club", "Robotics Club"],
+    "bio": "CV researcher working on vision systems.",
+    "connections": ["2", "7", "13", "19", "31", "37"]
+  },
+  {
+    "id": "26",
+    "name": "Aryan Chopra",
+    "batch": "2025",
+    "skills": ["Penetration Testing", "Burp Suite", "OWASP", "Security Auditing"],
+    "projects": [
+      { "name": "SecAudit", "description": "Security audit for 10 campus apps" },
+      { "name": "CTFChallenge", "description": "Designed CTF challenges for fest" }
+    ],
+    "clubs": ["InfoSec Club", "CTF Team"],
+    "bio": "Pentester finding vulnerabilities everywhere.",
+    "connections": ["3", "8", "14", "20", "32", "38"]
+  },
+  {
+    "id": "27",
+    "name": "Pooja Nair",
+    "batch": "2026",
+    "skills": ["Social Media Marketing", "Instagram", "Content Strategy", "Ads"],
+    "projects": [
+      { "name": "FestMarketing", "description": "Social campaign reaching 50k people" },
+      { "name": "ClubGrowth", "description": "Grew club following by 300%" }
+    ],
+    "clubs": ["Marketing Club", "E-Cell"],
+    "bio": "Digital marketer growing online presence.",
+    "connections": ["9", "15", "21", "33", "39"]
+  },
+  {
+    "id": "28",
+    "name": "Manish Kumar",
+    "batch": "2024",
+    "skills": ["Go", "Microservices", "gRPC", "Distributed Systems"],
+    "projects": [
+      { "name": "MessageQ", "description": "Lightweight message queue in Go" },
+      { "name": "LoadBalancer", "description": "Custom load balancer for projects" }
+    ],
+    "clubs": ["Backend Club", "Open Source Club"],
+    "bio": "Golang developer building distributed systems.",
+    "connections": ["4", "10", "16", "22", "34", "40"]
+  },
+  {
+    "id": "29",
+    "name": "Tanvi Shah",
+    "batch": "2025",
+    "skills": ["React", "Vue.js", "JavaScript", "CSS", "Animation"],
+    "projects": [
+      { "name": "PortfolioGen", "description": "Portfolio generator for students" },
+      { "name": "AnimatedUI", "description": "Component library with animations" }
+    ],
+    "clubs": ["Tech Club", "Design Society"],
+    "bio": "Frontend dev creating delightful experiences.",
+    "connections": ["5", "11", "17", "23", "35"]
+  },
+  {
+    "id": "30",
+    "name": "Dhruv Patel",
+    "batch": "2026",
+    "skills": ["Ethereum", "DeFi", "NFTs", "Web3 Development"],
+    "projects": [
+      { "name": "NFTMarket", "description": "NFT marketplace for student art" },
+      { "name": "DeFiSimulator", "description": "DeFi protocol simulator for learning" }
+    ],
+    "clubs": ["Blockchain Club", "Finance Club"],
+    "bio": "Web3 builder exploring DeFi and NFTs.",
+    "connections": ["1", "6", "12", "18", "24", "36"]
+  },
+  {
+    "id": "31",
+    "name": "Anjali Rao",
+    "batch": "2024",
+    "skills": ["Data Engineering", "Spark", "Kafka", "Airflow", "ETL"],
+    "projects": [
+      { "name": "DataPipeline", "description": "Real-time data pipeline for analytics" },
+      { "name": "LogProcessor", "description": "Log aggregation at scale" }
+    ],
+    "clubs": ["Data Club", "Tech Club"],
+    "bio": "Data engineer building scalable pipelines.",
+    "connections": ["2", "7", "13", "19", "25", "37"]
+  },
+  {
+    "id": "32",
+    "name": "Karthik Sundaram",
+    "batch": "2025",
+    "skills": ["3D Design", "Blender", "Maya", "Character Design"],
+    "projects": [
+      { "name": "GameAssets", "description": "3D assets for indie game studios" },
+      { "name": "MascotDesign", "description": "Designed mascot for tech fest" }
+    ],
+    "clubs": ["Animation Club", "Game Dev Club"],
+    "bio": "3D artist bringing characters to life.",
+    "connections": ["3", "8", "14", "20", "26", "38"]
+  },
+  {
+    "id": "33",
+    "name": "Simran Kaur",
+    "batch": "2026",
+    "skills": ["Podcast Production", "Audio Editing", "Storytelling", "Voice Over"],
+    "projects": [
+      { "name": "CampusTalks", "description": "Podcast with 50 episodes, 10k listens" },
+      { "name": "StartupStories", "description": "Interviews with student founders" }
+    ],
+    "clubs": ["Media Club", "E-Cell"],
+    "bio": "Podcaster telling campus stories.",
+    "connections": ["9", "15", "21", "27", "39"]
+  },
+  {
+    "id": "34",
+    "name": "Abhishek Verma",
+    "batch": "2024",
+    "skills": ["Scala", "Apache Spark", "Big Data", "Machine Learning"],
+    "projects": [
+      { "name": "RecommendEngine", "description": "Recommendation engine at scale" },
+      { "name": "StreamProcessor", "description": "Real-time stream processing" }
+    ],
+    "clubs": ["Data Club", "AI/ML Club"],
+    "bio": "Big data engineer scaling ML systems.",
+    "connections": ["4", "10", "16", "22", "28", "40"]
+  },
+  {
+    "id": "35",
+    "name": "Megha Iyer",
+    "batch": "2025",
+    "skills": ["Swift", "iOS Development", "SwiftUI", "Core Data"],
+    "projects": [
+      { "name": "StudyTimer", "description": "Pomodoro app on App Store" },
+      { "name": "CampusMap", "description": "Indoor navigation for campus" }
+    ],
+    "clubs": ["Apple Developer Club", "App Dev Club"],
+    "bio": "iOS developer with apps on the App Store.",
+    "connections": ["5", "11", "17", "23", "29"]
+  },
+  {
+    "id": "36",
+    "name": "Rohit Menon",
+    "batch": "2026",
+    "skills": ["Drone Technology", "Computer Vision", "ROS", "Flight Controllers"],
+    "projects": [
+      { "name": "DeliveryDrone", "description": "Autonomous package delivery drone" },
+      { "name": "AerialMapping", "description": "Campus aerial mapping system" }
+    ],
+    "clubs": ["Robotics Club", "Aero Club"],
+    "bio": "Drone enthusiast building autonomous systems.",
+    "connections": ["6", "12", "18", "24", "30"]
+  },
+  {
+    "id": "37",
+    "name": "Aditi Sharma",
+    "batch": "2024",
+    "skills": ["Quantitative Finance", "Python", "Risk Analysis", "Trading Algorithms"],
+    "projects": [
+      { "name": "AlgoTrader", "description": "Backtesting framework for strategies" },
+      { "name": "RiskDashboard", "description": "Portfolio risk visualization" }
+    ],
+    "clubs": ["Finance Club", "Analytics Club"],
+    "bio": "Quant building trading systems.",
+    "connections": ["2", "7", "13", "19", "25", "31"]
+  },
+  {
+    "id": "38",
+    "name": "Neeraj Gupta",
+    "batch": "2025",
+    "skills": ["Network Engineering", "CCNA", "Wireshark", "SDN"],
+    "projects": [
+      { "name": "NetworkMonitor", "description": "Network monitoring for campus" },
+      { "name": "SDNController", "description": "Software-defined network controller" }
+    ],
+    "clubs": ["InfoSec Club", "Tech Club"],
+    "bio": "Network engineer securing infrastructure.",
+    "connections": ["3", "8", "14", "20", "26", "32"]
+  },
+  {
+    "id": "39",
+    "name": "Kritika Jain",
+    "batch": "2026",
+    "skills": ["UX Research", "User Interviews", "Usability Testing", "A/B Testing"],
+    "projects": [
+      { "name": "LibraryUX", "description": "UX research for library app redesign" },
+      { "name": "OnboardingStudy", "description": "Onboarding flow optimization" }
+    ],
+    "clubs": ["Product Club", "Design Society"],
+    "bio": "UX researcher advocating for users.",
+    "connections": ["9", "15", "21", "27", "33"]
+  },
+  {
+    "id": "40",
+    "name": "Vivek Reddy",
+    "batch": "2024",
+    "skills": ["Site Reliability", "Prometheus", "Grafana", "Incident Management"],
+    "projects": [
+      { "name": "AlertSystem", "description": "Proactive alerting for campus services" },
+      { "name": "PostMortem", "description": "Incident management framework" }
+    ],
+    "clubs": ["Cloud Computing Club", "Tech Club"],
+    "bio": "SRE keeping systems running 24/7.",
+    "connections": ["4", "10", "16", "22", "28", "34"]
+  }
+]

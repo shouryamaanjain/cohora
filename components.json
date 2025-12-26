@@ -1,0 +1,28 @@
+{
+  "components": {
+    "ui": {
+      "button": "@/components/ui/button",
+      "input": "@/components/ui/input",
+      "card": "@/components/ui/card",
+      "badge": "@/components/ui/badge",
+      "avatar": "@/components/ui/avatar",
+      "scroll-area": "@/components/ui/scroll-area",
+      "dialog": "@/components/ui/dialog",
+      "separator": "@/components/ui/separator"
+    }
+  },
+  "style": "default",
+  "tailwind": {
+    "config": "tailwind.config.js",
+    "css": "src/index.css",
+    "baseColor": "slate",
+    "cssVariables": true
+  },
+  "rsc": false,
+  "tsx": true,
+  "aliases": {
+    "components": "@/components",
+    "utils": "@/lib/utils"
+  }
+}
+
